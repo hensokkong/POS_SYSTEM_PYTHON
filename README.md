@@ -1,2 +1,2 @@
 # POS_SYSTEM_PYTHON
-This is our assignment  for school 
+Since, I cant upload folder into Github. I have to zip it
