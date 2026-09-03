@@ -1,2 +1,2 @@
 # POS_SYSTEM_PYTHON
-Since, I cant upload folder into Github. I have to zip it
+Since, it not allow me to  upload whole folder(it said those file in folder is hidden) into Github. I have to zip it
