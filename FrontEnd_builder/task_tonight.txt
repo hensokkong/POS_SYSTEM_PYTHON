@@ -1,0 +1,1 @@
+build receipt in new window after click paying

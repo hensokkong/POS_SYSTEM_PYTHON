@@ -1,0 +1,107 @@
+[
+    {
+        "id": 1,
+        "name": "Latte",
+        "price": 3.5,
+        "category": "Coffee",
+        "quantity": 1
+    },
+    {
+        "id": 2,
+        "name": "Cappuccino",
+        "price": 3.0,
+        "category": "Coffee",
+        "quantity": 1
+    },
+    {
+        "id": 3,
+        "name": "Green Tea",
+        "price": 2.5,
+        "category": "Tea",
+        "quantity": 1
+    },
+    {
+        "id": 4,
+        "name": "Hot Latte",
+        "price": 1.5,
+        "category": "Coffee",
+        "quantity": 1
+    },
+    {
+        "id": 5,
+        "name": "Hot Latte",
+        "price": 1.5,
+        "category": "Coffee",
+        "quantity": 1
+    },
+    {
+        "id": 6,
+        "name": "Hot Latte",
+        "price": 1.5,
+        "category": "Coffee",
+        "quantity": 1
+    },
+    {
+        "id": 7,
+        "name": "Hot Latte",
+        "price": 1.5,
+        "category": "Coffee",
+        "quantity": 1
+    },
+    {
+        "id": 8,
+        "name": "Hot Latte",
+        "price": 1.5,
+        "category": "Coffee",
+        "quantity": 1
+    },
+    {
+        "id": 9,
+        "name": "Hot Latte",
+        "price": 1.5,
+        "category": "Coffee",
+        "quantity": 1
+    },
+    {
+        "id": 10,
+        "name": "Hot Latte",
+        "price": 1.5,
+        "category": "Coffee",
+        "quantity": 1
+    },
+    {
+        "id": 11,
+        "name": "Hot Latte",
+        "price": 1.5,
+        "category": "Coffee",
+        "quantity": 1
+    },
+    {
+        "id": 12,
+        "name": "Hot Latte",
+        "price": 1.5,
+        "category": "Coffee",
+        "quantity": 1
+    },
+    {
+        "id": 13,
+        "name": "Hot Latte",
+        "price": 1.5,
+        "category": "Coffee",
+        "quantity": 1
+    },
+    {
+        "id": 14,
+        "name": "Hot Latte",
+        "price": 1.5,
+        "category": "Coffee",
+        "quantity": 1
+    },
+    {
+        "id": 15,
+        "name": "Hot Latte",
+        "price": 1.5,
+        "category": "Coffee",
+        "quantity": 1
+    }
+]
